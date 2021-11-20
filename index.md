@@ -1,37 +1,33 @@
-## Welcome to GitHub Pages
-
-You can use the [editor on GitHub](https://github.com/BlackSkull457/random-htmll/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/BlackSkull457/random-htmll/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+<html>
+    <head><title>Bskull457</title></head>
+    <body>
+        <style>.animation
+            {
+                font-size: 20px;
+                width: 100%;
+                text-align: center;
+                white-space:nowrap;
+                overflow:hidden;
+                -webkit-animation: ketik 5s steps(70, end);
+                animation: ketik 5s steps(70, end);
+                color: blue;
+                font-family: 'Times New Roman', Times, serif;
+                
+            }
+            
+            @keyframes ketik{
+                from { width: 0; }
+            }
+            
+            @-webkit-keyframes ketik{
+                from { width: 0; }
+            }
+            body {background-color: black};
+            </style>
+            <script>alert("halo jangan diskip ya"); alert("ada yang mau disampaikan ama pengirim HTML ini"); alert("Ntah dia siapa tapi dia pengen bilang....");</script>
+        <p class="animation">halo thanks udah ngebaca same sejauh ini!<br/>orang yang ngirimin kamu ini pengen bilang ke kamu<br/>"selamat ulang tahun"tapi berhubung dia gak bisa ngucapin langsung makanya dia ngirimin ini</p> 
+        <center>
+        <img src="https://c.tenor.com/mc-r0_f3ujwAAAAM/happy-birthday-wishes.gif">
+    </center>
+    </body>
+</html>
